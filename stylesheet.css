@@ -4,10 +4,13 @@ body {
 
 .hero {
   background-image: url("background.jpg");
-  width: 800px;
-	margin: 40px auto 60px;
 }
 
 #pic {
   float: right;
+}
+
+.hero {
+  width: 800px;
+  margin: 40px auto 60px;
 }
