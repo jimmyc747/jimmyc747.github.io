@@ -5,3 +5,7 @@ body {
 .hero {
   background-image: url("background.jpg");
 }
+
+#pic {
+  float: right;
+}
