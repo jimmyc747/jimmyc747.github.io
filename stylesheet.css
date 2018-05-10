@@ -12,6 +12,12 @@ body {
 }
 
 .hero {
-  width: 1000px;
-  margin: 30px auto 60px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 400;
+  margin-right: 400px;
+  
+  padding: 100px 100px 100px 100px;
+  
+  border-radius: 15px;
 }
