@@ -17,4 +17,6 @@ body {
   margin-right: 400px;
   
   padding: 50px 50px 50px 50px;
+  
+  border-radius: 10% / 50%
 }
