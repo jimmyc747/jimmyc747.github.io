@@ -6,7 +6,7 @@ body {
   background-image: url("background.jpg");
 }
 
-.pic {
+#pic {
   float: right;
 }
 
@@ -18,5 +18,5 @@ body {
   
   padding: 50px 50px 50px 50px;
   
-  border-radius: 20px;
+  border-radius: 10px 100px / 120px;
 }
