@@ -1,10 +1,10 @@
 body {
   font-family: Arial, serif;
+  font: 16px;
 }
 
 .hero {
   background-image: url("background.jpg");
-  background-size: cover;
 }
 
 #pic {
